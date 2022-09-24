@@ -7,6 +7,6 @@ public class HelloWorld
   int num =10;
   int num1 =20;
   int num2 =num+num1;
-		System.out.println("Addition"+num2);
+		System.out.println("Addition num+num1"+num2);
 	}
 }
